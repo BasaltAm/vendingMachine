@@ -7,6 +7,7 @@ public class Price {
     int menuSixPrice;
     int menuSevenPrice;
     int menuEightPrice;
+
     Price(int menuOnePrice,
           int menuTwoPrice,
           int menuThreePrice,
