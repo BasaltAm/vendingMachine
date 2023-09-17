@@ -1,7 +1,7 @@
 public class Drink {
     private String menu;
 
-    public String getMenu(String menu1){
+    public String getMenu(String menu){
         return menu;
     }
     public String setMenu(String menu){
